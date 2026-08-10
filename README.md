@@ -6,7 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/pablo-navas">
-    <img src="https://img.shields.io/badge/Portafolio-Disponible-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+    <img src="<img width="1600" height="1600" alt="WhatsApp Image 2026-08-06 at 07 15 53" src="https://github.com/user-attachments/assets/86d496b8-a410-45a5-afff-1bf4943c5958" />
+" src="https://github.com/user-attachments/assets/83ba9a80-1a0f-4b28-848f-2549bd5d367f" />
+" alt="Portafolio" />
   </a>
   <a href="https://github.com/pablo-navas?tab=repositories">
     <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
