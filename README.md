@@ -106,10 +106,10 @@
       <a href="https://github.com/pablo-navas/conciertoconexion_pablonavas">Ver proyecto</a>
     </td>
     <td width="33%">
-      <h3>API & Backend Services</h3>
+      <h3>pagina web sobre Dead cells</h3>
       <p>Estructura backend orientada al manejo y procesamiento eficiente de datos.</p>
       <p><strong>Stack:</strong> Node.js, MongoDB, SQL</p>
-      <a href="https://github.com/pablo-navas?tab=repositories">Ver proyecto</a>
+      <a href="https://github.com/pablo-navas/dead-cell-wikipedia.git">Ver proyecto</a>
     </td>
     <td width="33%">
       <h3>Web Client Interfaces</h3>
