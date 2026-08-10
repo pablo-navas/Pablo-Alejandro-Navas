@@ -6,9 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/pablo-navas">
-    <img src="<img width="1600" height="1600" alt="WhatsApp Image 2026-08-06 at 07 15 53" src="https://github.com/user-attachments/assets/86d496b8-a410-45a5-afff-1bf4943c5958" />
-" src="https://github.com/user-attachments/assets/83ba9a80-1a0f-4b28-848f-2549bd5d367f" />
-" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/Portafolio-Disponible-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
   </a>
   <a href="https://github.com/pablo-navas?tab=repositories">
     <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -104,20 +102,14 @@
     <td width="33%">
       <h3>Concierto Conexión</h3>
       <p>Aplicación web diseñada para la interacción y gestión de eventos musicales.</p>
-      <p><strong>Stack:</strong> HTML, CSS, JavaScript, Node.js</p>
+      <p><strong>Stack:</strong> HTML, CSS, JavaScript.</p>
       <a href="https://github.com/pablo-navas/conciertoconexion_pablonavas">Ver proyecto</a>
     </td>
     <td width="33%">
-      <h3>pagina web sobre Dead cells</h3>
-      <p>Estructura backend orientada al manejo y procesamiento eficiente de datos.</p>
-      <p><strong>Stack:</strong> Node.js, MongoDB, SQL</p>
+      <h3>Dead cells</h3>
+      <p>Pagina web que trata sobre el video juego estilo rougelike.</p>
+      <p><strong>Stack:</strong> css, html, js</p>
       <a href="https://github.com/pablo-navas/dead-cell-wikipedia.git">Ver proyecto</a>
-    </td>
-    <td width="33%">
-      <h3>Web Client Interfaces</h3>
-      <p>Proyectos enfocados en maquetación fluida y componentes dinámicos de usuario.</p>
-      <p><strong>Stack:</strong> HTML5, CSS3, JavaScript</p>
-      <a href="https://github.com/pablo-navas?tab=repositories">Ver proyecto</a>
     </td>
   </tr>
 </table>
